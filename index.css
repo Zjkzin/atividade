@@ -6,6 +6,8 @@ header{
     background-color:beige;
     text-align: center;
     align-items: flex-end;
+    display: flex;
+    font-size: 150;
 }
 section{
 
